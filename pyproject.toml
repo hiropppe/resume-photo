@@ -1,0 +1,13 @@
+[project]
+name = "resume-photo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "<3.10,>=3.9"
+dependencies = [
+    "japanize-matplotlib>=1.1.3",
+    "jupyterlab>=4.5.1",
+    "onnxruntime>=1.19.2",
+    "rembg>=2.0.61",
+    "watermark>=2.6.0",
+]

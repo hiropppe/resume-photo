@@ -7,4 +7,4 @@ docker run --rm -p 8888:8888 resume-photo
 ```
 
 #### 作業ノートブック：  
-http://localhost:8890/lab/tree/notebooks/editor.ipynb
+http://localhost:8888/lab/tree/notebooks/editor.ipynb
